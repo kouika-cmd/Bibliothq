@@ -1,4 +1,5 @@
-node_modules*/
+secret*/
+node_modules
 package-lock.json
 .gitignore
 package.json
